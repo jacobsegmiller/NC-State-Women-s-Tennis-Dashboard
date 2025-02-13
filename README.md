@@ -1,5 +1,7 @@
 # NC State Women's Tennis Dashboard
 
+Project for NC State's Institute for Advanced Analytics (October 2024)
+
 Built a Tableau dashboard for the NC State Women's Tennis team with my homework team. Visualized key individual and team statistics. Worked with Jerryl Christopher, Dean Kolk, Jamie Lin, and Mary Grace Stachnik.
 
 Attached is the Tableau workbook and a link to the Tableau public when clicking the below link.
